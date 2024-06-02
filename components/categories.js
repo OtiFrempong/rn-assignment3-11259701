@@ -5,7 +5,19 @@ function Categories() {
     const images = [
         { src: require('../assets/card1.png')},
         { src: require('../assets/card2.png')},
-        // Add more images as needed
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
+        { src: require('../assets/card1.png')},
+        { src: require('../assets/card2.png')},
     ];
 
 

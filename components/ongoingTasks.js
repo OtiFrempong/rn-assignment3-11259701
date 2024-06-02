@@ -19,31 +19,31 @@ function OngoingTasks() {
         <Text style={styles.taskName}>Push Ups</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Exersise</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Study</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Code</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Cook</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Read</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Work</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Relax</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Shop</Text>
       </View>
       <View style={styles.taskpaper}>
-        <Text style={styles.taskName}></Text>
+        <Text style={styles.taskName}>Play</Text>
       </View>
     </View>
   </View>
